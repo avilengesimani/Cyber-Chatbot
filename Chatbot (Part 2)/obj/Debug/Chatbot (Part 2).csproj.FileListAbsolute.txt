@@ -1,0 +1,7 @@
+C:\Users\RC_Student_lab\source\repos\Chatbot (Part 2)\bin\Debug\Chatbot (Part 2).exe.config
+C:\Users\RC_Student_lab\source\repos\Chatbot (Part 2)\bin\Debug\Chatbot (Part 2).exe
+C:\Users\RC_Student_lab\source\repos\Chatbot (Part 2)\bin\Debug\Chatbot (Part 2).pdb
+C:\Users\RC_Student_lab\source\repos\Chatbot (Part 2)\obj\Debug\Chatbot (Part 2).csproj.AssemblyReference.cache
+C:\Users\RC_Student_lab\source\repos\Chatbot (Part 2)\obj\Debug\Chatbot (Part 2).csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\source\repos\Chatbot (Part 2)\obj\Debug\Chatbot (Part 2).exe
+C:\Users\RC_Student_lab\source\repos\Chatbot (Part 2)\obj\Debug\Chatbot (Part 2).pdb
